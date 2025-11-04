@@ -28,7 +28,7 @@ It applies **deception detection** and **sentiment analysis** models to large-sc
 ## Implementation
 - **Language:** Python 3.10  
 - **Frameworks:** scikit-learn, PyTorch, Hugging Face Transformers  
-- **Hardware:** NVIDIA GPU (T4 or better recommended)  
+- **Hardware:** NVIDIA GPU 
 - **Output:** Chunked inference → Parquet results  
 
 
@@ -42,7 +42,7 @@ It applies **deception detection** and **sentiment analysis** models to large-sc
 - **TripAdvisor Hotel Reviews** — sentiment classification  
 - **Airbnb New Zealand Reviews** — application dataset from [Inside Airbnb](https://insideairbnb.com)
 
-> ⚠️ Raw datasets are publicly available from their original sources.  
+> Raw datasets are publicly available from their original sources.  
 > This repository includes **code and documentation only**.
 
 ## Data & Models (keep out of Git)
